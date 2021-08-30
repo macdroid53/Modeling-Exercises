@@ -5,6 +5,10 @@ Preliminary edition copyright 1933, these are from the Fifth Edition, Seventh pr
 ## Figure 6-50 Missing-View Problems
 ![Instructions](./Fig_6-50/Fig_6-50_Missing-View_Problems_Assignment.png)
 
+Many of these are trivial with a CAD modeling, but, it can require a close look at the Figure for the exercise to get it right.
+
+And example solution for each provided in the associated folder in this repository.
+
 ## Figure 6-50-1
 ![Fig_6-50-1](./Fig_6-50/Fig_6-50-1.png)
 ## Figure 6-50-2
