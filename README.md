@@ -7,3 +7,6 @@ Preliminary edition copyright 1933, these are from the Fifth Edition, Seventh pr
 
 ## Figure 6-50-1
 ![Fig_6-50-1](./Fig_6-50/Fig_6-50-1.png)
+## Figure 6-50-1
+![Fig_6-50-2](./Fig_6-50/Fig_6-50-2.png)
+
