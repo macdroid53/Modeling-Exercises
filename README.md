@@ -5,9 +5,9 @@ Preliminary edition copyright 1933, these are from the Fifth Edition, Seventh pr
 ## Figure 6-50 Missing-View Problems
 ![Instructions](./Fig_6-50/Fig_6-50_Missing-View_Problems_Assignment.png)
 
-Many of these are trivial with a CAD modeling, but, it can require a close look at the Figure for the exercise to get it right.
+Many of these are trivial with a CAD modeling, but, it can require a close look at the Figure for each exercise to get it right.
 
-And example solution for each provided in the associated folder in this repository.
+And example solution for each, created in FreeCAD, is provided in the associated folder in this repository. Since these are from a textbook teaching drafting, in most cases, the example includes a FreeCAD TechDraw page. (*Note: all examples may be a work in progress...*)
 
 ## Figure 6-50-1
 ![Fig_6-50-1](./Fig_6-50/Fig_6-50-1.png)
