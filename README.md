@@ -4,3 +4,6 @@ Preliminary edition copyright 1933, these are from the Fifth Edition, Seventh pr
 
 ## Figure 6-50 Missing-View Problems
 ![Instructions](./Fig_6-50/Fig_6-50_Missing-View_Problems_Assignment.png)
+
+## Figure 6-50-1
+![Fig_6-50-1](./Fig_6-50/Fig_6-50-1.png)
