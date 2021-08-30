@@ -25,4 +25,6 @@ And example solution for each, created in FreeCAD, is provided in the associated
 ![Fig_6-50-7](./Fig_6-50/Fig_6-50-7.png)
 ## Figure 6-50-8
 ![Fig_6-50-8](./Fig_6-50/Fig_6-50-8.png)
+## Figure 6-60
+![Fig_6-60](./Fig_6-60/Fig_6-60.png)
 
