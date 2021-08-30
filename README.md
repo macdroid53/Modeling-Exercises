@@ -26,7 +26,7 @@ And example solution for each, created in FreeCAD, is provided in the associated
 ## Figure 6-50-8
 ![Fig_6-50-8](./Fig_6-50/Fig_6-50-8.png)
 ## Figure 6-59
-![Fig_6-59](./Fig_6-60/Fig_6-59.jpg)
+![Fig_6-59](./Fig_6-60/Fig_6-59.png)
 ## Figure 6-60
 ![Fig_6-60](./Fig_6-60/Fig_6-60.jpg)
 
