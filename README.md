@@ -29,4 +29,8 @@ And example solution for each, created in FreeCAD, is provided in the associated
 ![Fig_6-59](./Fig_6-59/Fig_6-59.png)
 ## Figure 6-60
 ![Fig_6-60](./Fig_6-60/Fig_6-60.jpg)
+## Figure 8-57
+![Fig_8-57](./Fig_8-57/Fig_8-57.png)
+## Figure 8-58
+![Fig_8-58](./Fig_8-58/Fig_8-58.png)
 
