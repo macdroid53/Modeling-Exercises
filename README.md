@@ -37,6 +37,8 @@ And example solution for each, created in FreeCAD, is provided in the associated
 ![Fig_8-44](./Fig_8-44/Fig_8-44.png)
 ## Figure 8-49
 ![Fig_8-49](./Fig_8-49/Fig_8-49.png)
+## Figure 8-51
+![Fig_8-51](./Fig_8-51/Fig_8-51.png)
 ## Figure 8-56
 ![Fig_8-56](./Fig_8-56/Fig_8-56.png)
 ## Figure 8-57
